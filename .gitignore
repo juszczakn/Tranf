@@ -1,0 +1,13 @@
+*~
+\#*\#
+desktop/bin
+android/bin
+.lock
+*.log
+.metadata
+.conf
+.syph
+desktop/output
+*.bak
+*.zip
+*.orig
